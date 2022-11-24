@@ -1,10 +1,11 @@
-<h1 align="center"> Hello dev, Francisco Aqui!</h1>
+<h1 align="center"> Hello dev, Francisco Aqui! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscosousajsp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscosousajsp&layout=compact&langs_count=16&theme=tokyonight"/>
 </p>
-<p align="center">📗Quanto mais aprendo, mais me torno 🍀</p>
+<h4 align="center"> A arte desafia a tecnologia, e a tecnologia inspira a arte. </h4>
+<p align="center"> Autor: John Lasseter</p>
 </p>
 
 <p align="center">
